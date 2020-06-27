@@ -40,6 +40,8 @@
 
 - Chapter 09：必然化充分吗？
 
+  [slides] [video]
+
 - Chapter 10：怀疑论者与真正的相信者
 
   [slides] [video]
