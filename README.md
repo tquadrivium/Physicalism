@@ -8,7 +8,7 @@
 
 - Chapter 01：引言
 
-  [[slides]](https://github.com/tquadrivium/Physicalism/slides/chapter01/introduction.pdf) [video]
+  [[slides]](slides/chapter01/introduction.pdf) [video]
 
 - Chapter 02：标准图景
 
